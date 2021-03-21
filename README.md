@@ -9,7 +9,7 @@ Solution presented for the challenge proposed by Wild Code School during the web
 
 Une fois que l’utilisateur clique sur le bouton de soumission, les données du formulaires sont envoyées sur une nouvelle page “thanks.php” et les informations saisies sont reprises de la sorte sur la page :
 
-Merci {Prénom} {Nom} de nous avoir contacté à propos de “{sujet}”.
+Merci {Prénom} {Nom} de nous avoir contacté à propos de “{sujet}”."
 
 Un de nos conseiller vous contactera soit à l’adresse {e-mail} ou par téléphone au {téléphone} dans les plus brefs délais pour traiter votre demande : 
 
