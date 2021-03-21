@@ -13,7 +13,7 @@
 <section class="contactMe">
 <h1>Contact us:</h1>
 
-<?php include("form.php");
+<?php require_once("form.php");
 ?>
 </section>
 </body>
