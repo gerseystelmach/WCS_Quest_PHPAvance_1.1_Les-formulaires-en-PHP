@@ -9,7 +9,7 @@
     <label for="telephone">Téléphone:</label>
     <input type="number" id="telephone" name="userTelephone" placeholder="01 02 03 04 05" required>
 
-    <label for="telephone">E-mail:</label>
+    <label for="E-mail">E-mail:</label>
     <input type="email" id="email" name="userEmail" placeholder="johnsmith@john.com" required>
 
 
